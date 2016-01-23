@@ -111,6 +111,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/173projectIcon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 451079,
+		"inputAbbreviatedPath": "\/assets\/images\/173projectIcon.png",
+		"outputAbbreviatedPath": "\/assets\/images\/173projectIcon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/arts173-footer-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -239,17 +250,6 @@
 		"initialSize": 69583,
 		"inputAbbreviatedPath": "\/assets\/images\/PrintHeader.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/PrintHeader.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/projectIcon.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18773,
-		"inputAbbreviatedPath": "\/assets\/images\/projectIcon.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/projectIcon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -974,7 +974,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "173-50357",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_blue"
+	"iconImageName": "\/assets\/images\/173projectIcon.png"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 1,
