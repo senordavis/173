@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html>
 
 
 
@@ -12,23 +12,32 @@
 
 
 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="ARTS 173 is a course in the effective visual presentation of ideas for the web, from concept and design to structure, preparation, and production. This course focuses on the elements and principles of design as applied to layout, graphics, and animation.">
-    <meta name="author" content="Mike Davis">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+<link href="https://fonts.googleapis.com/css?family=Raleway:400,800" rel='stylesheet' type='text/css'>
+<link href="https://msu.edu/~davisgom/171/assets/css/bootstrap.css" rel="stylesheet">
+<link href="https://msu.edu/~davisgom/171/assets/css/coursepack.css" rel='stylesheet' type='text/css'>
 
-    <title>ARTS 173 | CSS Assignment </title>
+<title>Styling with CSS Assignment</title>
 
-    <link href="//fonts.googleapis.com/css?family=Raleway:300,800" rel="stylesheet" type="text/css">    
-    <link href="https://senordavis.github.io/173/50357/assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+<h1>Styling with CSS</h1>
 
-  </head>
-  
-  <body>	
+<p>
+	In 1995 a big innovation came to web authoring. Before this point much of the structure and presentation of the web was mixed together into one document. Wired Magazine was one of the first companies to use CSS to separate the content and the design. This is a vitally important step forward for web design. Now you could create all the content for a site, keep all the design separate and update your whole site much more easily.
+
+</p>
+
+<p>
+	As can be seen on <a href="http://csszengarden.com" target="_blank">CSS Zen Garden</a>, the same HTML document can be styled an infinite number of ways with different CSS documents.
+</p>	
+
+<hr />
+	
 <h2>Objectives</h2>
-<p class="lead">Create an about me page using semantic markup and upload it to your web space. </p>
+<p>Create an HTML file as specified and use CSS to style the contents of a page, then post it to the server.</p>
 
 <hr />
 <div class="row">
@@ -37,25 +46,55 @@
 
 <h3>Assignment Specifications</h3>
 
-<p>
-Your about page may or may not be truthful and it need not have graphics or other bells and whistles. But it must us good markup.
-</p>
+	<p>
+		Use the materials provided in the assignment <a href="https://d2l.lcc.edu/d2l/le/content/118288/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-2899639">download module</a> to lay out a web page about red-eyed tree frogs. There is a text file, an image, and a PDF of an example layout. The text is completely unformatted, except for the list of URLs at the end that correspond to the related links. The PDF shows the appropriate divisions of the text.
+	</p>
 
-<p>
-	Your page will use the default styling that the browser will give it. However if you are already knowledgeable enough to use more sophisticated CSS or to add elements to your about  page, you certainly may do so&#8212;but the assignment is to produce a page that uses correctly marked-up text.
+	<p>
+		Open a new, empty HTML page and start by marking up the text in HTML. Then do all of your styling and layout using an <strong>external CSS</strong> file; <strong>NO tables</strong>, <strong>NO internal styles</strong>, <strong>NO default link styles</strong>.
+	</p>
+
+	<p>
+		You must:
+	</p>
+
+	<ul>
+		<li>Include separate <code>div</code> or <code>section</code> tags for the distinct sections shown in the example (header, page content, related links, footer, etc). </li>
+		<li>Include working links (some will be dummies, but they still need to act like links). </li>
+		<li>Choose styling for links, visited links, and hover links, as well as for the quoted text. Hint: the text is a longish block of quoted text.</li>
+	</ul>
 
 
-<p>Save your page with the appropriate name(s), following the file naming convention:</p>
+<div class="alert alert-warning" style="padding: 30px; padding-top: 20px;">
+	<p>
+		<strong>Please note:</strong> You do not have to replicate the look of the example, only its logical structure. Different layout choices, text styling and colors are encouraged. You may substitute a different image if you like, and you may add headings to the text. Otherwise use the text as is. 
+	</p>
+	
+	<p>
+		<strong>Please also note:</strong> You may not use any of the layout templates provided in Dreamweaver for any of the work in this course, though you are welcome to study them for pointers. Those layouts are very handy tools you may want to use on your own, but for the purposes of this introductory course you need to learn to do your own markup and styling.
+	</p>
+</div>
+
+<hr />
+
+<h3>File Naming</h3>
+
+	<p>Save your page with the appropriate name(s), following the file naming convention (<small><span style="color:teal;">teal</span> items are folders</small>):</p>
 
 <pre><code>
-  index.html
+  <span style="color:teal;"><strong>assignment-2</strong></span>
+   &#8627; index.html
+   &#8627; <span style="color:teal;"><strong>css</strong></span>
+       &#8627;style.css
 </code>
 </pre>
 
+<p></p>
+
 </div>
 </div>
 
-<p class="alert alert-success">Once completed, upload your images to your web space on <em>theartprogram.org</em> and to the <a href="https://d2l.lcc.edu/d2l/le/content/118288/viewContent/2890398/View" target="_top" class="alert-link">Basic Text Dropbox</a>.</p>
+<p class="alert alert-success">Once completed, upload your images to your web space on <em>theartprogram.org</em> and to the <a href="https://d2l.lcc.edu/d2l/le/content/118290/viewContent/2898372/View" target="_top" class="alert-link">CSS Dropbox</a>.</p>
 
 <aside class="alert alert-warning" style="padding: 30px;">
 	
@@ -80,6 +119,6 @@ Your about page may or may not be truthful and it need not have graphics or othe
 <hr />
 <h3>Assignment Evaluation</h3>
 <p class="alert alert-info">This exercise is worth a total of <strong>10 points</strong>.</p>
-<p class="alert alert-danger">This assignment is due <strong>Saturday, January 23, 2016</strong> at <strong>11:59 PM.</strong></p>
+<p class="alert alert-danger">This assignment is due <strong>Saturday, January 30, 2016</strong> at <strong>11:59 PM.</strong></p>
 </body>
 </html>
