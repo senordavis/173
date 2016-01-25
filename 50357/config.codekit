@@ -739,6 +739,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/partials\/features\/_css.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/features\/_css.kit",
+		"outputAbbreviatedPath": "\/partials\/features\/_css.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/partials\/features\/_file-management.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -772,6 +781,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/slides\/_basic-text-slide.kit",
 		"outputAbbreviatedPath": "\/partials\/slides\/_basic-text-slide.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/slides\/_css-slide.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/slides\/_css-slide.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_css-slide.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
