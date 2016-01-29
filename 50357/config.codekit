@@ -243,6 +243,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/news\/oops-banner.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38618,
+		"inputAbbreviatedPath": "\/assets\/images\/news\/oops-banner.png",
+		"outputAbbreviatedPath": "\/assets\/images\/news\/oops-banner.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/PrintHeader.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -565,6 +576,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/content\/docs\/welcome.kit",
 		"outputAbbreviatedPath": "\/content\/docs\/welcome.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/news\/oops.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/news\/oops.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
