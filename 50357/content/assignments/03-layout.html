@@ -26,18 +26,24 @@
 <h1>Layout with CSS</h1>
 
 <p>
-	In 1995 a big innovation came to web authoring. Before this point much of the structure and presentation of the web was mixed together into one document. Wired Magazine was one of the first companies to use CSS to separate the content and the design. This is a vitally important step forward for web design. Now you could create all the content for a site, keep all the design separate and update your whole site much more easily.
+	There is an awesome amount of power in today’s web design tools. Those layout tools include the position/float/clear commands. When these three properties interact, the compositional possibilities are virtually endless.
 
 </p>
 
 <p>
-	As can be seen on <a href="http://csszengarden.com" target="_blank">CSS Zen Garden</a>, the same HTML document can be styled an infinite number of ways with different CSS documents.
+	Thorough understanding of the <strong>box model</strong> and general CSS structure is a must for this lesson. If you have any questions please contact me.
 </p>	
 
 <hr />
 	
 <h2>Objectives</h2>
-<p>Create an HTML file as specified and use CSS to style the contents of a page, then post it to the server.</p>
+<ul>
+	<li>Create an HTML file as specified and post it to the server.</li>
+	<li>Demonstrate correct HTML markup of text.</li>
+	<li>Demonstrate creative and appropriate use of design.</li>
+	<li><strong>At least one design element has to be positioned using some other means than the default static.</strong></li>
+
+
 
 <hr />
 <div class="row">
@@ -47,24 +53,10 @@
 <h3>Assignment Specifications</h3>
 
 	<p>
-		Use the materials provided in the assignment <a href="https://d2l.lcc.edu/d2l/le/content/118288/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-2899639">download module</a> to lay out a web page about red-eyed tree frogs. There is a text file, an image, and a PDF of an example layout. The text is completely unformatted, except for the list of URLs at the end that correspond to the related links. The PDF shows the appropriate divisions of the text.
+		Use the files and content from your Assignment 3 to create a new design. This time you must come up with your own layout and styles. You are welcome to create a whole new design or a design based on your previous one as long as at least one element is <strong>fixed</strong> or <strong>absolutely</strong> positioned.
 	</p>
 
-	<p>
-		Open a new, empty HTML page and start by marking up the text in HTML. Then do all of your styling and layout using an <strong>external CSS</strong> file; <strong>NO tables</strong>, <strong>NO internal styles</strong>, <strong>NO default link styles</strong>.
-	</p>
-
-	<p>
-		You must:
-	</p>
-
-	<ul>
-		<li>Include separate <code>div</code> or <code>section</code> tags for the distinct sections shown in the example (header, page content, related links, footer, etc). </li>
-		<li>Include working links (some will be dummies, but they still need to act like links). </li>
-		<li>Choose styling for links, visited links, and hover links, as well as for the quoted text. Hint: the text is a longish block of quoted text.</li>
-	</ul>
-
-
+	
 <div class="alert alert-warning" style="padding: 30px; padding-top: 20px;">
 	<p>
 		<strong>Please note:</strong> You do not have to replicate the look of the example, only its logical structure. Different layout choices, text styling and colors are encouraged. You may substitute a different image if you like, and you may add headings to the text. Otherwise use the text as is. 
@@ -79,13 +71,15 @@
 
 <h3>File Naming</h3>
 
-	<p>Save your page with the appropriate name(s), following the file naming convention (<small><span style="color:teal;">teal</span> items are folders</small>):</p>
+	<p>Save your page with the appropriate name(s), following the file naming convention<br /><em>(<span style="color:teal;"><strong>teal</strong></span> items are folders)</em>:</p>
 
 <pre><code>
-  <span style="color:teal;"><strong>assignment-2</strong></span>
-   &#8627; index.html
-   &#8627; <span style="color:teal;"><strong>css</strong></span>
-       &#8627;style.css
+  <span style="color:teal;"><span class="glyphicon glyphicon-folder-open"></span> <strong>assignment-3</strong></span>
+   &#8627; <span class="glyphicon glyphicon-file"></span> index.html
+   <span style="color:teal;">&#8627; <span class="glyphicon glyphicon-folder-open"></span> <strong>css</strong></span>
+       &#8627; <span class="glyphicon glyphicon-file"></span> style.css
+   <span style="color:teal;">&#8627; <span class="glyphicon glyphicon-folder-open"></span> <strong>images</strong></span>
+       &#8627; <span class="glyphicon glyphicon-picture"></span> your-own-image.jpg
 </code>
 </pre>
 
@@ -94,7 +88,7 @@
 </div>
 </div>
 
-<p class="alert alert-success">Once completed, upload your images to your web space on <em>theartprogram.org</em> and to the <a href="https://d2l.lcc.edu/d2l/le/content/118290/viewContent/2898372/View" target="_top" class="alert-link">CSS Dropbox</a>.</p>
+<p class="alert alert-success">Once completed, upload your images to your <strong>web space on <em>theartprogram.org</em> </strong>and to the <a href="https://d2l.lcc.edu/d2l/le/content/118290/viewContent/2898372/View" target="_top" class="alert-link">CSS Dropbox</a>.</p>
 
 <aside class="alert alert-warning" style="padding: 30px;">
 	
@@ -102,9 +96,7 @@
 	
 	<p>
 	Please make sure to upload your files to both your theartprogram.org webspace and the assignment dropbox.
-	</p>
-	
-	<p>
+
 	This will ensure that you have completed the assignment correctly, and that everything will be graded correctly.
 	</p>
 	
@@ -119,6 +111,6 @@
 <hr />
 <h3>Assignment Evaluation</h3>
 <p class="alert alert-info">This exercise is worth a total of <strong>10 points</strong>.</p>
-<p class="alert alert-danger">This assignment is due <strong>Saturday, February 6, 2016</strong> at <strong>11:59 PM.</strong></p>
+<p class="alert alert-danger">This assignment is due <strong>Saturday, February 13, 2016</strong> at <strong>11:59 PM.</strong></p>
 </body>
 </html>
