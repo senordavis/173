@@ -966,12 +966,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/partials\/slides\/_layout.kit": {
+	"\/partials\/slides\/_layout-slide.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/partials\/slides\/_layout.kit",
-		"outputAbbreviatedPath": "\/partials\/slides\/_layout.html",
+		"inputAbbreviatedPath": "\/partials\/slides\/_layout-slide.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_layout-slide.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
