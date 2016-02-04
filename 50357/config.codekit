@@ -104,7 +104,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 27889,
+		"initialSize": 17945,
 		"inputAbbreviatedPath": "\/assets\/images\/173Background.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/173Background.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -144,13 +144,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/features\/ccs-layout.jpg": {
+	"\/assets\/images\/features\/css-layout.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 26736,
-		"inputAbbreviatedPath": "\/assets\/images\/features\/ccs-layout.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/features\/ccs-layout.jpg",
+		"inputAbbreviatedPath": "\/assets\/images\/features\/css-layout.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/css-layout.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -921,6 +921,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/partials\/features\/_layout.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/features\/_layout.kit",
+		"outputAbbreviatedPath": "\/partials\/features\/_layout.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/partials\/features\/_site-setup.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -954,6 +963,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/slides\/_css-slide.kit",
 		"outputAbbreviatedPath": "\/partials\/slides\/_css-slide.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/slides\/_layout.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/slides\/_layout.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_layout.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
