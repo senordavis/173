@@ -5898,6 +5898,16 @@ button.close {
   background-color: #0F55A3;
   border-color: #083E8D;
 }
+.btn.btn-images {
+  color: #ffffff;
+  background-color: #9E1F63;
+  border-color: #801144;
+}
+.btn.btn-images:hover {
+  color: #ffffff;
+  background-color: #801144;
+  border-color: #67092F;
+}
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
