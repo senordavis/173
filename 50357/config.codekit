@@ -210,6 +210,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/features\/tables-extended.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47290,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/tables-extended.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/tables-extended.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/features\/tables.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -261,6 +272,17 @@
 		"initialSize": 1554,
 		"inputAbbreviatedPath": "\/assets\/images\/icon-dropbox.png",
 		"outputAbbreviatedPath": "\/assets\/images\/icon-dropbox.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/news\/doh-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18828,
+		"inputAbbreviatedPath": "\/assets\/images\/news\/doh-banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/news\/doh-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -670,6 +692,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/content\/docs\/welcome.kit",
 		"outputAbbreviatedPath": "\/content\/docs\/welcome.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/news\/doh.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/news\/doh.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
