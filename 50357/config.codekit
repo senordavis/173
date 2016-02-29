@@ -177,6 +177,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/features\/forms.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28557,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/forms.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/forms.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/features\/html.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -458,6 +469,24 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/content\/assignments\/05-tables.kit",
 		"outputAbbreviatedPath": "\/content\/assignments\/05-tables.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/assignments\/06-forms.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/06-forms.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/assignments\/06-forms.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/06-forms.kit",
+		"outputAbbreviatedPath": "\/content\/assignments\/06-forms.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1010,6 +1039,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/partials\/features\/_forms.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/features\/_forms.kit",
+		"outputAbbreviatedPath": "\/partials\/features\/_forms.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/partials\/features\/_images.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1070,6 +1108,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/slides\/_css-slide.kit",
 		"outputAbbreviatedPath": "\/partials\/slides\/_css-slide.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/slides\/_forms-slide.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/slides\/_forms-slide.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_forms-slide.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
