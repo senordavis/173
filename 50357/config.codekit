@@ -287,24 +287,68 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/news\/ahh-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17107,
+		"inputAbbreviatedPath": "\/assets\/images\/news\/ahh-banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/news\/ahh-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/news\/doh-banner.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 18828,
+		"initialSize": 18857,
 		"inputAbbreviatedPath": "\/assets\/images\/news\/doh-banner.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/news\/doh-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/news\/oops-banner.png": {
-		"fileType": 32768,
+	"\/assets\/images\/news\/forms-video-banner.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 38618,
-		"inputAbbreviatedPath": "\/assets\/images\/news\/oops-banner.png",
-		"outputAbbreviatedPath": "\/assets\/images\/news\/oops-banner.png",
+		"initialSize": 15370,
+		"inputAbbreviatedPath": "\/assets\/images\/news\/forms-video-banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/news\/forms-video-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/news\/hmm-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19066,
+		"inputAbbreviatedPath": "\/assets\/images\/news\/hmm-banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/news\/hmm-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/news\/ooo-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19884,
+		"inputAbbreviatedPath": "\/assets\/images\/news\/ooo-banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/news\/ooo-banner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/news\/yay-banner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19649,
+		"inputAbbreviatedPath": "\/assets\/images\/news\/yay-banner.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/news\/yay-banner.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
