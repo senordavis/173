@@ -221,6 +221,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/features\/springbreak.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 47656,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/springbreak.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/springbreak.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/features\/tables-extended.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
