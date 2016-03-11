@@ -210,6 +210,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/features\/portfolio.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23160,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/portfolio.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/portfolio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/features\/site-setup.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1141,6 +1152,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/partials\/features\/_portfolio.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/features\/_portfolio.kit",
+		"outputAbbreviatedPath": "\/partials\/features\/_portfolio.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/partials\/features\/_site-setup.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1228,6 +1248,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/slides\/_layout-slide.kit",
 		"outputAbbreviatedPath": "\/partials\/slides\/_layout-slide.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/slides\/_portfolio-slide.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/slides\/_portfolio-slide.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_portfolio-slide.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
