@@ -144,6 +144,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/features\/animation.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/animation.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/animation.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/features\/blank.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/blank.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/blank.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/features\/css-layout.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -173,6 +195,17 @@
 		"initialSize": 21616,
 		"inputAbbreviatedPath": "\/assets\/images\/features\/files.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/features\/files.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/features\/final.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/final.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/final.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -210,6 +243,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/assets\/images\/features\/media.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/media.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/media.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/assets\/images\/features\/portfolio.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -217,6 +261,17 @@
 		"initialSize": 23160,
 		"inputAbbreviatedPath": "\/assets\/images\/features\/portfolio.jpg",
 		"outputAbbreviatedPath": "\/assets\/images\/features\/portfolio.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/assets\/images\/features\/print.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/assets\/images\/features\/print.jpg",
+		"outputAbbreviatedPath": "\/assets\/images\/features\/print.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -582,6 +637,24 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/content\/assignments\/07-portfolio.kit",
 		"outputAbbreviatedPath": "\/content\/assignments\/07-portfolio.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/assignments\/09-print.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/09-print.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/assignments\/09-print.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/09-print.kit",
+		"outputAbbreviatedPath": "\/content\/assignments\/09-print.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1188,6 +1261,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/partials\/features\/_print.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/features\/_print.kit",
+		"outputAbbreviatedPath": "\/partials\/features\/_print.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/partials\/features\/_site-setup.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1284,6 +1366,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/slides\/_portfolio-slide.kit",
 		"outputAbbreviatedPath": "\/partials\/slides\/_portfolio-slide.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/slides\/_print-slide.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/slides\/_print-slide.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_print-slide.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},

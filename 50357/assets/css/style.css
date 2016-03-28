@@ -5938,6 +5938,16 @@ button.close {
   background-color: #185750;
   border-color: #0E4039;
 }
+.btn.btn-print {
+  color: #ffffff;
+  background-color: #035946;
+  border-color: #013C2C;
+}
+.btn.btn-print:hover {
+  color: #ffffff;
+  background-color: #013C2C;
+  border-color: #00281C;
+}
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
