@@ -5948,6 +5948,16 @@ button.close {
   background-color: #013C2C;
   border-color: #00281C;
 }
+.btn.btn-animation {
+  color: #ffffff;
+  background-color: #A54122;
+  border-color: #882913;
+}
+.btn.btn-animation:hover {
+  color: #ffffff;
+  background-color: #882913;
+  border-color: #70190B;
+}
 body {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
