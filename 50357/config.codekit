@@ -640,6 +640,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/content\/assignments\/09-animation.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/09-animation.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/assignments\/09-animation.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/09-animation.kit",
+		"outputAbbreviatedPath": "\/content\/assignments\/09-animation.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/content\/assignments\/09-print.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -1261,6 +1279,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/partials\/features\/_media.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/features\/_media.kit",
+		"outputAbbreviatedPath": "\/partials\/features\/_media.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/partials\/features\/_portfolio.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1375,6 +1402,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/partials\/slides\/_layout-slide.kit",
 		"outputAbbreviatedPath": "\/partials\/slides\/_layout-slide.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/partials\/slides\/_media-slide.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/partials\/slides\/_media-slide.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_media-slide.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
