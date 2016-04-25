@@ -705,6 +705,24 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/content\/assignments\/12-Final.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/12-Final.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/content\/assignments\/12-Final.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/content\/assignments\/12-Final.kit",
+		"outputAbbreviatedPath": "\/content\/assignments\/12-Final.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/content\/docs\/syllabus.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -1434,12 +1452,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/partials\/slides\/_final.-slide.kit": {
+	"\/partials\/slides\/_final-slide.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/partials\/slides\/_final.-slide.kit",
-		"outputAbbreviatedPath": "\/partials\/slides\/_final.-slide.html",
+		"inputAbbreviatedPath": "\/partials\/slides\/_final-slide.kit",
+		"outputAbbreviatedPath": "\/partials\/slides\/_final-slide.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
