@@ -6034,7 +6034,7 @@ a:hover {
 }
 .brand-bg {
   background: url("../images/173Background.jpg") center -156px no-repeat;
-  background-color: #6d9d30;
+  background-color: #056F49;
   background-attachment: fixed;
 }
 .thanksgiving-bg {
@@ -6050,7 +6050,7 @@ a:hover {
   font-weight: 400;
   font-size: 24px;
   display: inline-block;
-  color: #297504;
+  color: #8BC53F;
 }
 @media (min-width: 768px) {
   .lead {

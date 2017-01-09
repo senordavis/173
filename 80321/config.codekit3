@@ -131,6 +131,14 @@
 		"oAP": "\/assets\/fonts\/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
+	"\/assets\/images\/173Background.jpg": {
+		"ft": 16384,
+		"iS": 165038,
+		"oA": 0,
+		"oAP": "\/assets\/images\/173Background.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/assets\/images\/173projectIcon.png": {
 		"ft": 32768,
 		"iS": 451079,
@@ -291,38 +299,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/assets\/images\/footer-spacer.gif": {
-		"ft": 4194304,
-		"iS": 46,
-		"oA": 0,
-		"oAP": "\/assets\/images\/footer-spacer.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/icon-content.png": {
-		"ft": 32768,
-		"iS": 1297,
-		"oA": 0,
-		"oAP": "\/assets\/images\/icon-content.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/icon-doc.png": {
-		"ft": 32768,
-		"iS": 2985,
-		"oA": 0,
-		"oAP": "\/assets\/images\/icon-doc.png",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/images\/icon-dropbox.png": {
-		"ft": 32768,
-		"iS": 1554,
-		"oA": 0,
-		"oAP": "\/assets\/images\/icon-dropbox.png",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/assets\/images\/news\/ahh-banner.jpg": {
 		"ft": 16384,
 		"iS": 17107,
@@ -395,6 +371,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/assets\/images\/welcomeBanner.jpg": {
+		"ft": 16384,
+		"iS": 77436,
+		"oA": 0,
+		"oAP": "\/assets\/images\/welcomeBanner.jpg",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/assets\/images\/welcomeBanner.png": {
 		"ft": 32768,
 		"iS": 50656,
@@ -426,6 +410,15 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/assets\/js\/min\/docs.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/assets\/js\/tawk.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/tawk-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
