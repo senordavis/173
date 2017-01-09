@@ -6002,6 +6002,10 @@ h6,
 }
 a {
   font-weight: bold !important;
+  color: #8BC53F;
+}
+a:hover {
+  color: #297504;
 }
 #weekly-intro {
   height: 500px;
@@ -6030,7 +6034,7 @@ a {
 }
 .brand-bg {
   background: url("../images/173Background.jpg") center -156px no-repeat;
-  background-color: #8BC53F;
+  background-color: #6d9d30;
   background-attachment: fixed;
 }
 .thanksgiving-bg {
