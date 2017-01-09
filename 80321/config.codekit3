@@ -9,23 +9,6 @@
 	],
 "creatorBuild": "25479",
 "files": {
-	"\/assets\/css\/bootstrap-variables.less": {
-		"aP": 0,
-		"bl": 0,
-		"dJ": 0,
-		"ft": 1,
-		"ie": 1,
-		"iI": 0,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/assets\/css\/bootstrap-variables.css",
-		"oF": 0,
-		"oS": 0,
-		"rU": 0,
-		"sI": 0,
-		"sM": 0,
-		"sU": 0
-		},
 	"\/assets\/css\/bootstrap.less": {
 		"aP": 0,
 		"bl": 0,
@@ -96,6 +79,23 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/assets\/css\/style.css",
+		"oF": 0,
+		"oS": 0,
+		"rU": 0,
+		"sI": 0,
+		"sM": 0,
+		"sU": 0
+		},
+	"\/assets\/css\/variables.less": {
+		"aP": 0,
+		"bl": 0,
+		"dJ": 0,
+		"ft": 1,
+		"ie": 1,
+		"iI": 0,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/css\/variables.css",
 		"oF": 0,
 		"oS": 0,
 		"rU": 0,
@@ -858,10 +858,106 @@
 		"oAP": "\/content\/videos\/12-final-demo.html",
 		"oF": 0
 		},
-	"\/demo.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/demo.html",
+	"\/content\/weeks\/_springbreak.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_springbreak.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_thanksgivingbreak.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_thanksgivingbreak.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week1.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week1.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week10.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week10.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week11.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week11.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week12.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week12.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week13.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week13.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week14.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week14.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week15.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week15.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week2.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week2.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week3.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week3.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week4.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week4.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week5.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week5.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week6.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week6.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week7.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week7.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week8.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week8.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/_week9.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/content\/weeks\/_week9.html",
 		"oF": 0
 		},
 	"\/index.html": {
@@ -894,6 +990,12 @@
 		"oAP": "\/partials\/_carousel-controls.html",
 		"oF": 0
 		},
+	"\/partials\/_end.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/_end.html",
+		"oF": 0
+		},
 	"\/partials\/_firehose.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -904,6 +1006,12 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/partials\/_footer.html",
+		"oF": 0
+		},
+	"\/partials\/_fun.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/_fun.html",
 		"oF": 0
 		},
 	"\/partials\/_indicators.kit": {
@@ -952,6 +1060,12 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/partials\/_variables.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_01-welcome.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_01-welcome.html",
 		"oF": 0
 		},
 	"\/partials\/features\/_animation.kit": {
@@ -1044,12 +1158,6 @@
 		"oAP": "\/partials\/features\/_thanksgivingbreak.html",
 		"oF": 0
 		},
-	"\/partials\/features\/_welcome.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_welcome.html",
-		"oF": 0
-		},
 	"\/partials\/slides\/_animation-slide.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -1138,120 +1246,6 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/partials\/slides\/_welcome-slide.html",
-		"oF": 0
-		},
-	"\/test.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/test.html",
-		"oF": 0
-		},
-	"\/test.kit": {
-		"ft": 2048,
-		"oA": 0,
-		"oAP": "\/test.html",
-		"oF": 0
-		},
-	"\/weeks\/_springbreak.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_springbreak.html",
-		"oF": 0
-		},
-	"\/weeks\/_thanksgivingbreak.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_thanksgivingbreak.html",
-		"oF": 0
-		},
-	"\/weeks\/_week1.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week1.html",
-		"oF": 0
-		},
-	"\/weeks\/_week10.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week10.html",
-		"oF": 0
-		},
-	"\/weeks\/_week11.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week11.html",
-		"oF": 0
-		},
-	"\/weeks\/_week12.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week12.html",
-		"oF": 0
-		},
-	"\/weeks\/_week13.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week13.html",
-		"oF": 0
-		},
-	"\/weeks\/_week14.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week14.html",
-		"oF": 0
-		},
-	"\/weeks\/_week15.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week15.html",
-		"oF": 0
-		},
-	"\/weeks\/_week2.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week2.html",
-		"oF": 0
-		},
-	"\/weeks\/_week3.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week3.html",
-		"oF": 0
-		},
-	"\/weeks\/_week4.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week4.html",
-		"oF": 0
-		},
-	"\/weeks\/_week5.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week5.html",
-		"oF": 0
-		},
-	"\/weeks\/_week6.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week6.html",
-		"oF": 0
-		},
-	"\/weeks\/_week7.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week7.html",
-		"oF": 0
-		},
-	"\/weeks\/_week8.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week8.html",
-		"oF": 0
-		},
-	"\/weeks\/_week9.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/weeks\/_week9.html",
 		"oF": 0
 		}
 	},
