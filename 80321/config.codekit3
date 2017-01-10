@@ -414,6 +414,15 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/assets\/js\/min\/tawk-min.js": {
+		"ft": 64,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/assets\/js\/min\/min\/tawk-min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
 	"\/assets\/js\/tawk.js": {
 		"ft": 64,
 		"mi": 1,
@@ -519,6 +528,18 @@
 		"oAP": "\/content\/assignments\/07-portfolio.html",
 		"oF": 0
 		},
+	"\/content\/assignments\/08-print.html": {
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/assignments\/08-print.html",
+		"oF": 0
+		},
+	"\/content\/assignments\/08-print.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/content\/assignments\/08-print.html",
+		"oF": 0
+		},
 	"\/content\/assignments\/09-animation.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -529,18 +550,6 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/content\/assignments\/09-animation.html",
-		"oF": 0
-		},
-	"\/content\/assignments\/09-print.html": {
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/content\/assignments\/09-print.html",
-		"oF": 0
-		},
-	"\/content\/assignments\/09-print.kit": {
-		"ft": 2048,
-		"oA": 0,
-		"oAP": "\/content\/assignments\/09-print.html",
 		"oF": 0
 		},
 	"\/content\/assignments\/10-media.html": {
