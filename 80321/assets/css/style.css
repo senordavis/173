@@ -5868,6 +5868,16 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.btn.btn-success {
+  color: #ffffff;
+  background-color: #8BC53F;
+  border-color: #70a130;
+}
+.btn.btn-success:hover {
+  color: #ffffff;
+  background-color: #4C9810;
+  border-color: #356a0b;
+}
 .btn.btn-html {
   color: #ffffff;
   background-color: #F7941E;
@@ -6025,7 +6035,7 @@ a:hover {
   text-decoration: underline;
 }
 #weekly-intro p a:hover {
-  background-color: black;
+  background-color: #8BC53F;
   color: white;
   padding: 5px;
   margin: -5px;
@@ -6034,12 +6044,8 @@ a:hover {
 }
 .brand-bg {
   background: url("../images/173Background.jpg") center -156px no-repeat;
-  background-color: #056F49;
+  background-color: #2D2D27;
   background-attachment: fixed;
-}
-.thanksgiving-bg {
-  background: url("../images/thanksgiving-bg.jpg") center -156px no-repeat !important;
-  background-color: #EF4136 !important;
 }
 .feature-heading {
   margin-top: 30px;
@@ -6099,7 +6105,7 @@ footer p a:hover,
   display: inline-block;
   width: 100px;
   height: 100px;
-  color: #4C9810;
+  color: #8BC53F;
   text-align: center;
   line-height: 70px;
   font-size: 40px;

@@ -133,7 +133,7 @@
 		},
 	"\/assets\/images\/173Background.jpg": {
 		"ft": 16384,
-		"iS": 165038,
+		"iS": 29955,
 		"oA": 0,
 		"oAP": "\/assets\/images\/173Background.jpg",
 		"oF": 0,
@@ -149,7 +149,7 @@
 		},
 	"\/assets\/images\/arts173-footer-logo.png": {
 		"ft": 32768,
-		"iS": 5787,
+		"iS": 3764,
 		"oA": 0,
 		"oAP": "\/assets\/images\/arts173-footer-logo.png",
 		"oF": 0,
@@ -864,12 +864,6 @@
 		"oAP": "\/content\/weeks\/_thanksgivingbreak.html",
 		"oF": 0
 		},
-	"\/content\/weeks\/_week1.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/content\/weeks\/_week1.html",
-		"oF": 0
-		},
 	"\/content\/weeks\/_week10.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -904,12 +898,6 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/content\/weeks\/_week15.html",
-		"oF": 0
-		},
-	"\/content\/weeks\/_week2.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/content\/weeks\/_week2.html",
 		"oF": 0
 		},
 	"\/content\/weeks\/_week3.kit": {
@@ -953,6 +941,30 @@
 		"oA": 1,
 		"oAP": "\/content\/weeks\/_week9.html",
 		"oF": 0
+		},
+	"\/content\/weeks\/week-01.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/weeks\/week-01.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/week-01.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/content\/weeks\/week-01.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/week-02.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/weeks\/week-02.html",
+		"oF": 0
+		},
+	"\/content\/weeks\/week-02.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/content\/weeks\/week-02.html",
+		"oF": 1
 		},
 	"\/index.html": {
 		"ft": 8192,
@@ -1062,16 +1074,16 @@
 		"oAP": "\/partials\/features\/_01-welcome.html",
 		"oF": 0
 		},
+	"\/partials\/features\/_02-basic-text.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_02-basic-text.html",
+		"oF": 0
+		},
 	"\/partials\/features\/_animation.kit": {
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/partials\/features\/_animation.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_basic-text.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_basic-text.html",
 		"oF": 0
 		},
 	"\/partials\/features\/_css.kit": {

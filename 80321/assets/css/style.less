@@ -9,7 +9,8 @@
 @medium-green: #4C9810;
 @dark-green: #297504;
 @darker-green: #165A01;
-@thanksgiving-bg: #EF4136;
+
+@intro-bg: #2D2D27;
 
 body {
 	font-family: @roboto;
@@ -52,7 +53,7 @@ a {
         text-decoration: underline;
 
         &:hover {
-            background-color: black;
+            background-color: @base-green;
             color: white;
             padding: 5px;
             margin: -5px;
@@ -65,13 +66,8 @@ a {
 
 .brand-bg {
     background: url("../images/173Background.jpg") center -156px no-repeat;
-	background-color: #056F49;
+	background-color: @intro-bg;
     background-attachment: fixed;
-}
-
-.thanksgiving-bg {
-    background: url("../images/thanksgiving-bg.jpg") center -156px no-repeat !important;
-    background-color: @thanksgiving-bg !important;
 }
 
 .feature-heading {
@@ -141,7 +137,7 @@ a {
     display: inline-block;
     width: 100px;
     height: 100px;
-    color: @medium-green;    
+    color: @base-green;    
     text-align: center;
     line-height: 70px;
     font-size: 40px;
