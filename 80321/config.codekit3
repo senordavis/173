@@ -7,7 +7,7 @@
 		"uuidString": "1EC70454-7773-4254-BC91-6AF2C9C08139"
 		}
 	],
-"creatorBuild": "25479",
+"creatorBuild": "25504",
 "files": {
 	"\/assets\/css\/bootstrap.less": {
 		"aP": 0,
@@ -333,7 +333,7 @@
 		},
 	"\/assets\/images\/news\/hmm-banner.jpg": {
 		"ft": 16384,
-		"iS": 19066,
+		"iS": 20842,
 		"oA": 0,
 		"oAP": "\/assets\/images\/news\/hmm-banner.jpg",
 		"oF": 0,
@@ -752,6 +752,12 @@
 		},
 	"\/content\/news\/hmm.html": {
 		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/content\/news\/hmm.html",
+		"oF": 0
+		},
+	"\/content\/news\/hmm.kit": {
+		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/content\/news\/hmm.html",
 		"oF": 0
@@ -1911,6 +1917,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
@@ -2450,6 +2460,10 @@
 		"prefer-const": {
 			"active": 0,
 			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-numeric-literals": {
 			"active": 0,
