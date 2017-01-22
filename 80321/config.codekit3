@@ -906,12 +906,6 @@
 		"oAP": "\/content\/weeks\/_week15.html",
 		"oF": 0
 		},
-	"\/content\/weeks\/_week3.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/content\/weeks\/_week3.html",
-		"oF": 0
-		},
 	"\/content\/weeks\/_week4.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -970,6 +964,12 @@
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/content\/weeks\/week-02.html",
+		"oF": 1
+		},
+	"\/content\/weeks\/week-03.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/content\/weeks\/week-03.html",
 		"oF": 1
 		},
 	"\/index.html": {
@@ -1086,64 +1086,70 @@
 		"oAP": "\/partials\/features\/_02-basic-text.html",
 		"oF": 0
 		},
-	"\/partials\/features\/_animation.kit": {
+	"\/partials\/features\/_03-css.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/partials\/features\/_animation.html",
+		"oAP": "\/partials\/features\/_03-css.html",
 		"oF": 0
 		},
-	"\/partials\/features\/_css.kit": {
+	"\/partials\/features\/_04-layout.kit": {
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/partials\/features\/_css.html",
+		"oAP": "\/partials\/features\/_04-layout.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_05-images.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_05-images.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_06-tables.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_06-tables.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_07-forms.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_07-forms.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_08-portfolio.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_08-portfolio.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_09-print.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_09-print.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_10-animation.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_10-animation.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_11-media.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_11-media.html",
+		"oF": 0
+		},
+	"\/partials\/features\/_12-final.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/partials\/features\/_12-final.html",
 		"oF": 0
 		},
 	"\/partials\/features\/_file-management.kit": {
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/partials\/features\/_file-management.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_final.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_final.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_forms.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_forms.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_images.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_images.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_layout.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_layout.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_media.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_media.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_portfolio.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_portfolio.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_print.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_print.html",
 		"oF": 0
 		},
 	"\/partials\/features\/_site-setup.kit": {
@@ -1156,12 +1162,6 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/partials\/features\/_springbreak.html",
-		"oF": 0
-		},
-	"\/partials\/features\/_tables.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/partials\/features\/_tables.html",
 		"oF": 0
 		},
 	"\/partials\/features\/_thanksgivingbreak.kit": {
