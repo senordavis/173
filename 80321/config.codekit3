@@ -906,12 +906,6 @@
 		"oAP": "\/content\/weeks\/_week15.html",
 		"oF": 0
 		},
-	"\/content\/weeks\/_week4.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/content\/weeks\/_week4.html",
-		"oF": 0
-		},
 	"\/content\/weeks\/_week5.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -966,10 +960,22 @@
 		"oAP": "\/content\/weeks\/week-02.html",
 		"oF": 1
 		},
+	"\/content\/weeks\/week-03.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/content\/weeks\/week-03.html",
+		"oF": 0
+		},
 	"\/content\/weeks\/week-03.kit": {
 		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/content\/weeks\/week-03.html",
+		"oF": 1
+		},
+	"\/content\/weeks\/week-04.kit": {
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/content\/weeks\/week-04.html",
 		"oF": 1
 		},
 	"\/index.html": {
