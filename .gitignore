@@ -1,6 +1,13 @@
-
-*.codekit
-
 .DS_Store
 
+*.app
+
 *.codekit
+
+*.codekit3
+
+80321/config.codekit3
+
+sites/
+
+
